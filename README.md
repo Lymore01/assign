@@ -37,8 +37,7 @@ Before running the API, ensure you have the following installed:
    ```bash
    cd client
    npm run dev```
-![localhost_5173_ (3)](https://github.com/Lymore01/assign/assets/130097627/5af58500-f151-4f57-a9be-6b99b8cfa54a)
-
+![localhost_5173_ (4)](https://github.com/Lymore01/assign/assets/130097627/f73b9be7-573d-4f36-8d02-b3de0fc112fe)
 
 
 
