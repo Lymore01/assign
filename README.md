@@ -31,7 +31,13 @@ Before running the API, ensure you have the following installed:
    cd assign
 2. **start the server**:
  ```bash
-   flask run  
+ flask run 
+```
+3. **start the client**:
+   ```bash
+   cd client
+   npm run dev```
+![localhost_5173_ (3)](https://github.com/Lymore01/assign/assets/130097627/5af58500-f151-4f57-a9be-6b99b8cfa54a)
 
 Example Usage
 curl -X POST -H "Content-Type: application/json" -d "{\"unit_names\": \"UNITA\"}" http://localhost:5000/api/get_exam_info     //note: the units should be in UPPERCASE
