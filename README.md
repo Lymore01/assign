@@ -44,4 +44,4 @@ Before running the API, ensure you have the following installed:
 
 4. **Example Usage**
 ```bash
-curl -X POST -H "Content-Type: application/json" -d "{\"unit_names\": \"UNITA\"}" http://localhost:5000/api/get_exam_info     //note: the units should be in UPPERCASE
+curl -X POST -H "Content-Type: application/json" -d "{\"unit_names\": \"MAT120A\"}" http://localhost:5000/api/get_exam_info     //note: the units should be in UPPERCASE
