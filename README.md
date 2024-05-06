@@ -27,5 +27,5 @@ Before running the API, ensure you have the following installed:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/exam-info-api.git
-   cd exam-info-api
+   git clone [https://github.com/your-username/exam-info-api.git](https://github.com/Lymore01/assign.git)
+   cd assign
