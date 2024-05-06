@@ -29,3 +29,9 @@ Before running the API, ensure you have the following installed:
    ```bash
    git clone [https://github.com/your-username/exam-info-api.git](https://github.com/Lymore01/assign.git)
    cd assign
+2. **start the server**:
+ ```bash
+   flask run  
+
+Example Usage
+curl -X POST -H "Content-Type: application/json" -d "{\"unit_names\": \"UNITA\"}" http://localhost:5000/api/get_exam_info     //note: the units should be in UPPERCASE
